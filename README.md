@@ -9,6 +9,6 @@ In this project, we implement a **Multinomial Naive Bayes (MNB) classifier from 
 
 ## Conclusion and Further Directions 
 We implemented a Multinomial Naive Bayes (MNB) classifier from scratch for spam detection and validated it against scikit-learn’s MultinomialNB, achieving equivalent accuracy, precision, and recall. This confirms the reliability of our approach while underscoring the practical importance of spam filtering for email security and user experience.  
-- Explore different text classification models, such as bag-of-words and TF-IDF  
-- Test alternative models (e.g., logistic regression, random forests, SVM)  
-- Improve preprocessing with stemming, lemmatization, and handling irregular punctuation
+- Explore different text classification models, such as bag-of-words and TF-IDF. 
+- Test alternative models (e.g., logistic regression, random forests, SVM). 
+- Improve preprocessing with stemming, lemmatization, and handling irregular punctuation.
